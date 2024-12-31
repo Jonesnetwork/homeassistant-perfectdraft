@@ -5,6 +5,6 @@
   "documentation": "https://github.com/jonesnetwork/perfectdraft",
   "requirements": [],
   "dependencies": [],
-  "codeowners": "@jonesnetwork"
+  "codeowners": ["@jonesnetwork"],
   "config_flow": true
 }

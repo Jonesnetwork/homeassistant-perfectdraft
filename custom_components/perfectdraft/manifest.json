@@ -1,10 +1,9 @@
 {
   "domain": "perfectdraft",
   "name": "PerfectDraft",
-  "version": "1.0",
-  "documentation": "https://github.com/jonesnetwork/perfectdraft",
+  "version": "1.0.0",
+  "config_flow": true,
   "requirements": [],
   "dependencies": [],
-  "codeowners": ["@jonesnetwork"],
-  "config_flow": true
+  "codeowners": ["@Jonesnetwork"]
 }

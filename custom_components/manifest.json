@@ -1,10 +1,9 @@
 {
   "domain": "perfectdraft",
   "name": "PerfectDraft",
-  "version": "1.0",
-  "documentation": "https://github.com/jonesnetwork/homeassistant-perfectdraft",
+  "version": "1.0.0",
+  "config_flow": true,
+  "requirements": [],
   "dependencies": [],
-  "codeowners": "@jonesnetwork",
-  "requirements": ["requests", "beautifulsoup4"],
-  "config_flow": true
+  "codeowners": ["@Jonesnetwork"]
 }

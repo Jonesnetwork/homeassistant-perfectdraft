@@ -5,6 +5,6 @@
   "documentation": "https://github.com/matthewcky2k/perfectdraft",
   "requirements": [],
   "dependencies": [],
-  "codeowners": ["@matthewcky2k"]
+  "codeowners": "@matthewcky2k"
   "config_flow": true
 }
